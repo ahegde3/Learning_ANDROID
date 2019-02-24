@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="q1_what_is_capital_of_india">Q1.What is capital of India.</string>
+
+    <string name="delhi">Delhi</string>
+    <string name="q2_prime_minister_of_india">Q2.PRIME MINISTER of India</string>
+    <string name="modi">MODI</string>
+    <string name="rg">RG</string>
+    <string name="submit">submit</string>
+    <string name="mumbai">Mumbai</string>
+    <string name="welcome_to_results">welcome to results</string>
+    <string name="title_activity_sol">sol</string>
+    <string name="final_score">final score</string>
+
+</resources>
